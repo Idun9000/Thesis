@@ -1,2 +1,4 @@
 Thesis_project/
 data/
+.env
+.DS_Store
