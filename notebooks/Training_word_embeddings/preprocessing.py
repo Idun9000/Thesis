@@ -1,17 +1,10 @@
 import re
-import contractions
 import spacy
 nlp = spacy.load("en_core_web_sm")
 
-def clean_story_for_embeddings(text):
-    # Expand contractions
-    text = contractions.fix(text)
+def preprocess_story_for_embeddings(text): 
     # Remove HTML and Markdown 
-    text = re.sub(r'<[^>]+>', ' ', text) 
-    text = re.sub(r'\[[^\]]*\]', ' ', text) 
-    # Replace long dashes with space 
-    text = re.sub(r'[—–]', ' ', text)
-    
+    text = re.sub(r'<[^>]+>', ' ', text)    
     # Process text with spaCy (sentence segmentation + NER)
     doc = nlp(text)
 
