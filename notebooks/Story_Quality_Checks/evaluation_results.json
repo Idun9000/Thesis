@@ -1,0 +1,402 @@
+[
+  {
+    "predicted": "science fiction",
+    "true": "science fiction"
+  },
+  {
+    "predicted": "science fiction",
+    "true": "science fiction"
+  },
+  {
+    "predicted": "romance",
+    "true": "romance"
+  },
+  {
+    "predicted": "science fiction",
+    "true": "science fiction"
+  },
+  {
+    "predicted": "romance",
+    "true": "romance"
+  },
+  {
+    "predicted": "romance",
+    "true": "romance"
+  },
+  {
+    "predicted": "literary fiction",
+    "true": "literary fiction"
+  },
+  {
+    "predicted": "literary fiction",
+    "true": "literary fiction"
+  },
+  {
+    "predicted": "science fiction",
+    "true": "science fiction"
+  },
+  {
+    "predicted": "literary fiction",
+    "true": "literary fiction"
+  },
+  {
+    "predicted": "science fiction",
+    "true": "science fiction"
+  },
+  {
+    "predicted": "literary fiction",
+    "true": "literary fiction"
+  },
+  {
+    "predicted": "literary fiction",
+    "true": "literary fiction"
+  },
+  {
+    "predicted": "literary fiction",
+    "true": "romance"
+  },
+  {
+    "predicted": "romance",
+    "true": "romance"
+  },
+  {
+    "predicted": "science fiction",
+    "true": "science fiction"
+  },
+  {
+    "predicted": "romance",
+    "true": "romance"
+  },
+  {
+    "predicted": "science fiction",
+    "true": "science fiction"
+  },
+  {
+    "predicted": "science fiction",
+    "true": "science fiction"
+  },
+  {
+    "predicted": "romance",
+    "true": "romance"
+  },
+  {
+    "predicted": "literary fiction",
+    "true": "literary fiction"
+  },
+  {
+    "predicted": "literary fiction",
+    "true": "literary fiction"
+  },
+  {
+    "predicted": "romance",
+    "true": "romance"
+  },
+  {
+    "predicted": "literary fiction",
+    "true": "science fiction"
+  },
+  {
+    "predicted": "romance",
+    "true": "romance"
+  },
+  {
+    "predicted": "romance",
+    "true": "romance"
+  },
+  {
+    "predicted": "literary fiction",
+    "true": "literary fiction"
+  },
+  {
+    "predicted": "romance",
+    "true": "romance"
+  },
+  {
+    "predicted": "romance",
+    "true": "romance"
+  },
+  {
+    "predicted": "romance",
+    "true": "romance"
+  },
+  {
+    "predicted": "science fiction",
+    "true": "science fiction"
+  },
+  {
+    "predicted": "literary fiction",
+    "true": "literary fiction"
+  },
+  {
+    "predicted": "romance",
+    "true": "romance"
+  },
+  {
+    "predicted": "science fiction",
+    "true": "science fiction"
+  },
+  {
+    "predicted": "science fiction",
+    "true": "science fiction"
+  },
+  {
+    "predicted": "science fiction",
+    "true": "science fiction"
+  },
+  {
+    "predicted": "romance",
+    "true": "literary fiction"
+  },
+  {
+    "predicted": "romance",
+    "true": "romance"
+  },
+  {
+    "predicted": "literary fiction",
+    "true": "romance"
+  },
+  {
+    "predicted": "romance",
+    "true": "romance"
+  },
+  {
+    "predicted": "romance",
+    "true": "romance"
+  },
+  {
+    "predicted": "science fiction",
+    "true": "science fiction"
+  },
+  {
+    "predicted": "romance",
+    "true": "romance"
+  },
+  {
+    "predicted": "romance",
+    "true": "romance"
+  },
+  {
+    "predicted": "romance",
+    "true": "literary fiction"
+  },
+  {
+    "predicted": "science fiction",
+    "true": "literary fiction"
+  },
+  {
+    "predicted": "science fiction",
+    "true": "science fiction"
+  },
+  {
+    "predicted": "romance",
+    "true": "romance"
+  },
+  {
+    "predicted": "romance",
+    "true": "romance"
+  },
+  {
+    "predicted": "romance",
+    "true": "romance"
+  },
+  {
+    "predicted": "science fiction",
+    "true": "science fiction"
+  },
+  {
+    "predicted": "literary fiction",
+    "true": "literary fiction"
+  },
+  {
+    "predicted": "literary fiction",
+    "true": "literary fiction"
+  },
+  {
+    "predicted": "science fiction",
+    "true": "science fiction"
+  },
+  {
+    "predicted": "science fiction",
+    "true": "science fiction"
+  },
+  {
+    "predicted": "literary fiction",
+    "true": "literary fiction"
+  },
+  {
+    "predicted": "science fiction",
+    "true": "science fiction"
+  },
+  {
+    "predicted": "literary fiction",
+    "true": "literary fiction"
+  },
+  {
+    "predicted": "science fiction",
+    "true": "science fiction"
+  },
+  {
+    "predicted": "romance",
+    "true": "romance"
+  },
+  {
+    "predicted": "romance",
+    "true": "romance"
+  },
+  {
+    "predicted": "science fiction",
+    "true": "science fiction"
+  },
+  {
+    "predicted": "literary fiction",
+    "true": "literary fiction"
+  },
+  {
+    "predicted": "romance",
+    "true": "romance"
+  },
+  {
+    "predicted": "romance",
+    "true": "romance"
+  },
+  {
+    "predicted": "science fiction",
+    "true": "science fiction"
+  },
+  {
+    "predicted": "literary fiction",
+    "true": "science fiction"
+  },
+  {
+    "predicted": "science fiction",
+    "true": "science fiction"
+  },
+  {
+    "predicted": "science fiction",
+    "true": "science fiction"
+  },
+  {
+    "predicted": "literary fiction",
+    "true": "science fiction"
+  },
+  {
+    "predicted": "science fiction",
+    "true": "science fiction"
+  },
+  {
+    "predicted": "literary fiction",
+    "true": "literary fiction"
+  },
+  {
+    "predicted": "science fiction",
+    "true": "science fiction"
+  },
+  {
+    "predicted": "literary fiction",
+    "true": "literary fiction"
+  },
+  {
+    "predicted": "literary fiction",
+    "true": "literary fiction"
+  },
+  {
+    "predicted": "romance",
+    "true": "romance"
+  },
+  {
+    "predicted": "science fiction",
+    "true": "science fiction"
+  },
+  {
+    "predicted": "literary fiction",
+    "true": "literary fiction"
+  },
+  {
+    "predicted": "literary fiction",
+    "true": "literary fiction"
+  },
+  {
+    "predicted": "romance",
+    "true": "romance"
+  },
+  {
+    "predicted": "romance",
+    "true": "romance"
+  },
+  {
+    "predicted": "romance",
+    "true": "romance"
+  },
+  {
+    "predicted": "science fiction",
+    "true": "science fiction"
+  },
+  {
+    "predicted": "literary fiction",
+    "true": "literary fiction"
+  },
+  {
+    "predicted": "literary fiction",
+    "true": "literary fiction"
+  },
+  {
+    "predicted": "literary fiction",
+    "true": "literary fiction"
+  },
+  {
+    "predicted": "literary fiction",
+    "true": "literary fiction"
+  },
+  {
+    "predicted": "literary fiction",
+    "true": "literary fiction"
+  },
+  {
+    "predicted": "romance",
+    "true": "literary fiction"
+  },
+  {
+    "predicted": "romance",
+    "true": "romance"
+  },
+  {
+    "predicted": "romance",
+    "true": "romance"
+  },
+  {
+    "predicted": "science fiction",
+    "true": "romance"
+  },
+  {
+    "predicted": "romance",
+    "true": "literary fiction"
+  },
+  {
+    "predicted": "literary fiction",
+    "true": "literary fiction"
+  },
+  {
+    "predicted": "science fiction",
+    "true": "science fiction"
+  },
+  {
+    "predicted": "science fiction",
+    "true": "science fiction"
+  },
+  {
+    "predicted": "literary fiction",
+    "true": "literary fiction"
+  },
+  {
+    "predicted": "literary fiction",
+    "true": "literary fiction"
+  },
+  {
+    "predicted": "science fiction",
+    "true": "science fiction"
+  },
+  {
+    "predicted": "literary fiction",
+    "true": "literary fiction"
+  }
+]
