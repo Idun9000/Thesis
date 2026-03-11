@@ -1,0 +1,39 @@
+```{r}
+library(pacman)
+pacman::p_load(tidyverse, ggplot2, emmeans)
+options(scipen = 999)
+```
+
+```{r}
+# load the data
+romance_bias_data <- read_csv("data/associational_gender_bias/romance_associational_gender_bias.csv")
+
+sci_fi_bias_data <- read_csv("data/associational_gender_bias/sci_fi_associational_gender_bias.csv")
+
+literary_fiction_bias_data <- read_csv("data/associational_gender_bias/literary_fiction_associational_gender_bias.csv")
+
+# add genre column
+romance_bias_data <- romance_bias_data %>%
+  mutate(genre = "romance")
+
+sci_fi_bias_data <- sci_fi_bias_data %>%
+  mutate(genre = "sci-fi")
+
+literary_fiction_bias_data <- literary_fiction_bias_data %>%
+  mutate(genre = "literary fiction")
+
+# bind data together
+bias_data <- bind_rows(romance_bias_data, sci_fi_bias_data, literary_fiction_bias_data)
+```
+
+```{r}
+# make a linear model
+model <- lm(gender_bias ~ 0 + dimension * genre, data = bias_data)
+emm <- emmeans(model, ~ dimension * genre)
+
+test(emm)
+```
+
+```{r}
+
+```
