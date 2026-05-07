@@ -3,3 +3,4 @@ data/
 embeddings/
 .env
 .gitattributes
+.DS_Store
