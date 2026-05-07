@@ -1,3 +1,5 @@
 Thesis_project/
 data/
 embeddings/
+.env
+.gitattributes
