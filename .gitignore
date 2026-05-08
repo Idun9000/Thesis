@@ -4,3 +4,4 @@ embeddings/
 .env
 .gitattributes
 .DS_Store
+Investigating_existing_LLM_generated_stories_data.ipynb
