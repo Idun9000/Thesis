@@ -1,6 +1,6 @@
 ```{r}
 library(pacman)
-pacman::p_load(tidyverse, ggplot2, emmeans, sandwich, lmtest, lmerTest, performance, see)
+pacman::p_load(tidyverse, emmeans)
 options(scipen = 999)
 ```
 

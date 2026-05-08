@@ -1,7 +1,7 @@
 ### Import libraries
 ```{r}
 library(pacman)
-pacman::p_load(tidyverse, ggplot2, emmeans, sandwich, lmtest, lmerTest, performance, see)
+pacman::p_load(tidyverse, glue, lmerTest, performance, emmeans)
 options(scipen = 999)
 ```
 
